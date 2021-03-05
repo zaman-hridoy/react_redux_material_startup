@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-      jell
+      <h1 style={{textAlign: 'center'}}>Hello from zaman hridou</h1>
     </div>
   )
 }
